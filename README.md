@@ -60,7 +60,7 @@ npm run serve
 或
 yarn serve
 ```
-## 设置自动打开浏览器
+## 设置自动打开浏览器 
 ```
 package.json文件中 添加--open允许自动打开浏览器
 "script":{"serve":"vue-cli-service serve --open"}
