@@ -42,7 +42,7 @@ cd 项目名称
 ```
 npm run serve ==> 默认是8080端口
  如果提示serve不是一个内部或外部的命令则需要安装以下serve包:
-npm i serve
+npm i serve 
 ```
 ### 打包
 ```
