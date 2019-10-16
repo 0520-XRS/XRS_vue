@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport"
+    content="width=device-width,initial-scale=1.0,maximum-scale=1.0,minimum-scale=1.0 user-scalable=no">
+  <title>vue-LisaShop</title>
+  <!-- 样式引入最好使用绝对路径，如果使用'./'这样的相对路径通过内置服务器运行时样式无法加载 -->
+  <!--引入重置的样式-->
+  <link rel="stylesheet" href="/css/reset.css">
+  <!-- <link rel="stylesheet" href="./static/css/bootstrap.css"> -->
+
+  <!--图标字体,线上的-->
+  <link rel="stylesheet" href="http://at.alicdn.com/t/font_518606_5kcf4pgw3tc.css">
+  <!--解决移动端点击事件0.3延迟问题: 使用fastclick库-->
+  <script src="https://as.alipayobjects.com/g/component/fastclick/1.0.6/fastclick.js"></script>
+  <script>
+    if ('addEventListener' in document) {
+      document.addEventListener('DOMContentLoaded', function () {
+        FastClick.attach(document.body);
+      }, false);
+    }
+  </script>
+</head>
+
+<body>
+  <div id="app"></div>
+  <!-- built files will be auto injected -->
+</body>
+
+</html>
