@@ -44,7 +44,7 @@ npm run serve ==> 默认是8080端口
  如果提示serve不是一个内部或外部的命令则需要安装以下serve包:
 npm i serve
 ```
-### 打包
+### 打包 
 ```
 虽然 3.x版本的脚手架中没有build文件夹，但依然可以通过
 npm run build
