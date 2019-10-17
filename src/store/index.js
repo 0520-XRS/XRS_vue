@@ -1,20 +1,19 @@
 import Vue from 'vue'
 import Vuex from 'vuex'
-import state from './state.js'
-import mutations from './mutations.js'
-import actions from './actions.js'
-import getters from './getters.js'
-// 引入模块
+import state from './state'
+import mutations from './mutations'
+import actions from './actions'
+import getters from './getters'
 import Courselist from './modules/Courselist.js'
-
+import Chairs from './modules/Chairs.js'
 Vue.use(Vuex)
-
 export default new Vuex.Store({
     state,
     mutations,
     actions,
     getters,                                            
     modules:{
-      Courselist
+      Courselist,
+      Chairs
     }
 })

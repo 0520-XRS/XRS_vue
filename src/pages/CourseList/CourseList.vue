@@ -1,10 +1,10 @@
 <template>
-<div>
-  课程列表
-</div>
+  <div class="container">
+    课程列表
+  </div>
 </template>
 <script>
-export default {}
+export default {};
 </script>
 <style lang="stylus" rel="stylesheet/stylus">
 </style>

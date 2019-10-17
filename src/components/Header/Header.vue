@@ -1,12 +1,5 @@
 <template>
-<div class="header">
-  <Search/>
-  <div>
-    Header组件
-  </div>
-  
-
-</div>
+<div class="header">Header组件</div>
 </template>
 <script>
 export default {
@@ -16,6 +9,7 @@ export default {
 <style lang="stylus" rel="stylesheet/stylus">
 .header
   width 100%
-  height 80px
-  background-color pink 
+  height 120px
+  background-color pink
+
 </style>

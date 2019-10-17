@@ -32,5 +32,12 @@ body {
   outline: none;
 }
 .clearfix{
+  zoom: 1;
+}
+.clearfix::after{
+  display: block;
+  content: '';
   clear: both;
+  visibility: hidden;
+  height: 0;
 }
