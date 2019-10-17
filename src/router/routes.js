@@ -31,7 +31,6 @@ export default[
     path:'/shopcart',
     component:ShopCart
   },
-  
   {
     path:'/login',
     component:Login

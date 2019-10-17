@@ -1,6 +1,7 @@
 /*base*/
 body {
   background: #fff;
+  height: 100%;
 }
 
 .btn {
@@ -30,4 +31,6 @@ body {
 .btn:focus {
   outline: none;
 }
-
+.clearfix{
+  clear: both;
+}

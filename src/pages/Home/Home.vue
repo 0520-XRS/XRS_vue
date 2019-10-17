@@ -1,12 +1,21 @@
 <template>
 <div>
+  首页
+  <Header />  
+  <!-- <Search /> -->
   
-
-  哈哈哈
 </div>
 </template>
 <script>
+
+// import axios from "axios";
 export default {
+  
+//  async mounted () {
+//     const url = `http://localhost:8080/search`;
+//     const response = await axios.get(url);
+//     console.log(response)
+//   }
 
 }
 </script>

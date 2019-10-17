@@ -1,0 +1,1 @@
+export const  RE_ALLCOURSE = 'ALL_COURSE'

@@ -4,8 +4,14 @@
 </div>
 </template>
 <script>
+import axios from "axios";
 export default {
-  name:"Swiper"
+  name:"Swiper",
+  async mounted () {
+    const url = `http://localhost:8080/reqCourse`;
+    const response = await axios.get(url);
+    console.log(response)
+  }
 }
 </script>
 <style lang="stylus" rel="stylesheet/stylus">

@@ -1,9 +1,8 @@
+// vue.config.js
 const path = require('path')
-
 function resolve (dir) {
-  return path.join(__dirname, '..', dir)
+  return path.join(__dirname, dir)
 }
-
 module.exports = {
   configureWebpack: {
     resolve: {
@@ -19,11 +18,10 @@ module.exports = {
       '/api': {
         target: 'http://localhost:5000',
         changeOrigin: true,
-        pathRewrite: {'^/api' : ''}// 重写路径
+        pathRewrite: {
+          '^/api': '', // rewrite path
+        }
       }
     }
   }
 }
-
-
-

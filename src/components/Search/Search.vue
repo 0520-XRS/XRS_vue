@@ -1,11 +1,11 @@
 <template>
 <div>
-  搜索组件
+  搜索
 </div>
 </template>
 <script>
 export default {
-  name:"Search"
+  name:'Search'
 }
 </script>
 <style lang="stylus" rel="stylesheet/stylus">
