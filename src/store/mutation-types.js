@@ -1,0 +1,5 @@
+export const  RE_ALLCOURSE = 'RE_ALLCOURSE'
+export const  RE_CHAIR= 'RE_CHAIR'
+export const  RECEIVE_ADDTOCART='receive_addToCart'
+export const ADD_LIST='add_list'
+export const RECEIVE__COURSEINFO='RECEIVE__COURSEINFO'

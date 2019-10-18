@@ -1,0 +1,353 @@
+{
+  "allCourse": [
+    {
+      "name": "语文",
+      "courses": [
+        {
+          "courseName": "【秋季目标985班】高三语文1.5轮复习直播班（全国）",
+          "courseTime": " 9月8日-12月29日每周日7:45-10:00",
+          "teachAvatar": "https://hwt.xesimg.com/teacher/2018/03/17/15212657756087.png",
+          "teachName": "郑慎捷",
+          "coursePrice": "￥699",
+          "courseOutline": [
+            {
+              "chapterName": "第一讲",
+              "chapterContent": "【诗歌】一轮复习：诗歌鉴赏艺术手法题答题模板",
+              "chapterTime": "09月08日 周日 07:45 - 10:00",
+              "isBegin": "有回放"
+            },
+            {
+              "chapterName": "第二讲",
+              "chapterContent": "【文言】一轮复习：高考中的高频文言虚词、句式",
+              "chapterTime": "09月15日 周日 07:45 - 10:00",
+              "isBegin": "有回放"
+            },
+            {
+              "chapterName": "第三讲",
+              "chapterContent": "【作文】一轮复习：考场议论文写作提升策略",
+              "chapterTime": "09月22日 周日 07:45 - 10:00",
+              "isBegin": "未开始"
+            },
+            {
+              "chapterName": "第四讲",
+              "chapterContent": "【基础】一轮复习：语言的简明、连贯、得体",
+              "chapterTime": "10月06日 周日 07:45 - 10:00",
+              "isBegin": "未开始"
+            }
+          ],
+          "isordered": [
+            "有回放",
+            "未开始"
+          ]
+        },
+        {
+          "courseName": "【寒假目标985班】高三语文2轮复习（上）直播班（京津浙沪）",
+          "courseTime": "二期：1月28日-1月31日每天07:30-11:30",
+          "teachAvatar": "https://hwt.xesimg.com/teacher/2018/03/17/15212657756087.png",
+          "teachName": "郑慎捷",
+          "coursePrice": "￥399",
+          "courseOutline": [
+            {
+              "chapterName": "第一讲",
+              "chapterContent": "【诗歌】集中提分：诗歌鉴赏得分点提炼归纳",
+              "chapterTime": "01月28日 周二 07:30 - 11:30",
+              "isBegin": "有回放"
+            },
+            {
+              "chapterName": "第二讲",
+              "chapterContent": "【文言】集中提分：文言文得分点提炼归纳",
+              "chapterTime": "01月29日 周三 07:30 - 11:30",
+              "isBegin": "有回放"
+            },
+            {
+              "chapterName": "第三讲",
+              "chapterContent": "【阅读】集中提分：散文阅读技巧提炼归纳",
+              "chapterTime": "01月30日 周四 07:30 - 11:30",
+              "isBegin": "未开始"
+            },
+            {
+              "chapterName": "第四讲",
+              "chapterContent": "【作文】集中提分：写作技巧提炼归纳",
+              "chapterTime": "01月31日 周五 07:30 - 11:30",
+              "isBegin": "未开始"
+            }
+          ],
+          "isordered": [
+            "有回放",
+            "未开始"
+          ]
+        },
+        {
+          "courseName": "【寒假目标清北班】高三语文2轮复习（上）直播班（京津浙沪）",
+          "courseTime": "一期：1月20日-1月23日每天19:00-23:00",
+          "teachAvatar": "https://hwt.xesimg.com/teacher/2018/03/17/15212657756087.png",
+          "teachName": "郑慎捷",
+          "coursePrice": "￥699",
+          "courseOutline": [
+            {
+              "chapterName": "第一讲",
+              "chapterContent": "【诗歌】集中提分：诗歌鉴赏得分点提炼归纳",
+              "chapterTime": "01月20日 周一 19:00 - 23:00",
+              "isBegin": "有回放"
+            },
+            {
+              "chapterName": "第二讲",
+              "chapterContent": "【文言】集中提分：文言文得分点提炼归纳",
+              "chapterTime": "01月21日 周二 19:00 - 23:00",
+              "isBegin": "有回放"
+            },
+            {
+              "chapterName": "第三讲",
+              "chapterContent": "【阅读】集中提分：散文阅读技巧提炼归纳",
+              "chapterTime": "01月22日 周三 19:00 - 23:00",
+              "isBegin": "未开始"
+            },
+            {
+              "chapterName": "第四讲",
+              "chapterContent": "【作文】集中提分：写作技巧提炼归纳",
+              "chapterTime": "01月23日 周四 19:00 - 23:00",
+              "isBegin": "未开始"
+            }
+          ],
+          "isordered": [
+            "有回放",
+            "未开始"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "数学",
+      "courses": [
+        {
+          "courseName": "【秋季目标一本班】高三理科数学1.5轮复习直播班（全国）",
+          "courseTime": " 9月7日-12月28日每周六15:30-17:45",
+          "teachAvatar": "https://hwt.xesimg.com/teacher/2018/04/24/15245529748482.png",
+          "teachName": "傅博宇",
+          "coursePrice": "￥699",
+          "courseOutline": [
+            {
+              "chapterName": "第一讲",
+              "chapterContent": "基本初等函数",
+              "chapterTime": "09月07日 周六 15:30 - 17:45",
+              "isBegin": "有回放"
+            },
+            {
+              "chapterName": "第二讲",
+              "chapterContent": "函数的图象与性质",
+              "chapterTime": "09月14日 周六 15:30 - 17:45",
+              "isBegin": "有回放"
+            },
+            {
+              "chapterName": "第三讲",
+              "chapterContent": "导数的运算与切线问题",
+              "chapterTime": "09月21日 周六 15:30 - 17:45",
+              "isBegin": "未开始"
+            },
+            {
+              "chapterName": "第四讲",
+              "chapterContent": "导数的应用",
+              "chapterTime": "10月05日 周六 15:30 - 17:45",
+              "isBegin": "未开始"
+            }
+          ],
+          "isordered": [
+            "有回放",
+            "未开始"
+          ]
+        },
+        {
+          "courseName": "【秋季目标985班】高三文科数学1.5轮复习直播班（全国）",
+          "courseTime": "9月7日-12月28日每周六15:30-17:45二期：1月28日-1月31日每天07:30-11:30",
+          "teachAvatar": "https://ekt.xesimg.com/teacher/2018/05/25/15272419744722.png",
+          "teachName": "吴旭sg",
+          "coursePrice": "￥699",
+          "courseOutline": [
+            {
+              "chapterName": "第一讲",
+              "chapterContent": "函数的三要素与基本初等函数",
+              "chapterTime": "09月07日 周六 15:30 - 17:45",
+              "isBegin": "有回放"
+            },
+            {
+              "chapterName": "第二讲",
+              "chapterContent": "函数的图象与性质",
+              "chapterTime": "09月14日 周六 15:30 - 17:45",
+              "isBegin": "有回放"
+            },
+            {
+              "chapterName": "第三讲",
+              "chapterContent": "导数的运算与切线问题",
+              "chapterTime": "01月30日 周四 07:30 - 11:30",
+              "isBegin": "未开始"
+            },
+            {
+              "chapterName": "第四讲",
+              "chapterContent": "导数的应用——单调性与极值最值",
+              "chapterTime": "10月05日 周六 15:30 - 17:45",
+              "isBegin": "未开始"
+            }
+          ],
+          "isordered": [
+            "有回放",
+            "未开始"
+          ]
+        },
+        {
+          "courseName": "【秋季目标清北班】高三理科数学1.5轮复习直播班（全国）",
+          "courseTime": "9月7日-12月28日每周六18:30-20:45",
+          "teachAvatar": "https://hwt.xesimg.com/teacher/2018/04/24/15245537203596.png",
+          "teachName": "王侃",
+          "coursePrice": "￥699",
+          "courseOutline": [
+            {
+              "chapterName": "第一讲",
+              "chapterContent": "函数性质的应用",
+              "chapterTime": "09月07日 周六 18:30 - 20:45",
+              "isBegin": "有回放"
+            },
+            {
+              "chapterName": "第二讲",
+              "chapterContent": "函数零点与恒成立问题",
+              "chapterTime": "09月14日 周六 18:30 - 20:45",
+              "isBegin": "有回放"
+            },
+            {
+              "chapterName": "第三讲",
+              "chapterContent": "导数的应用——单调性与极值最值",
+              "chapterTime": "09月21日 周六 18:30 - 20:45",
+              "isBegin": "未开始"
+            },
+            {
+              "chapterName": "第四讲",
+              "chapterContent": "导数的应用——单调性与极值最值",
+              "chapterTime": "09月21日 周六 18:30 - 20:45",
+              "isBegin": "未开始"
+            }
+          ],
+          "isordered": [
+            "有回放",
+            "未开始"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "化学",
+      "courses": [
+        {
+          "courseName": "【秋季目标一本班】高三化学1.5轮复习直播班（全国）",
+          "courseTime": " 9月7日-12月28日每周六18:30-20:45",
+          "teachAvatar": "https://oot.xesimg.com/teacher/2018/04/24/15245536031531.png",
+          "teachName": "贾世增",
+          "coursePrice": "￥699",
+          "courseOutline": [
+            {
+              "chapterName": "第一讲",
+              "chapterContent": "物质结构与元素周期律",
+              "chapterTime": "09月07日 周六 18:30 - 20:45",
+              "isBegin": "有回放"
+            },
+            {
+              "chapterName": "第二讲",
+              "chapterContent": "离子反应",
+              "chapterTime": "09月14日 周六 18:30 - 20:45",
+              "isBegin": "有回放"
+            },
+            {
+              "chapterName": "第三讲",
+              "chapterContent": "氧化还原反应",
+              "chapterTime": "09月21日 周六 18:30 - 20:45",
+              "isBegin": "未开始"
+            },
+            {
+              "chapterName": "第四讲",
+              "chapterContent": "金属及其化合物",
+              "chapterTime": "10月05日 周六 18:30 - 20:45",
+              "isBegin": "未开始"
+            }
+          ],
+          "isordered": [
+            "有回放",
+            "未开始"
+          ]
+        },
+        {
+          "courseName": "【秋季目标985班】高三化学1.5轮复习直播班（全国）",
+          "courseTime": "9月7日-12月28日每周六15:30-17:45二期：1月28日-1月31日每天07:30-11:30",
+          "teachAvatar": "https://hwt.xesimg.com/teacher/2018/03/17/15212657756087.png",
+          "teachName": "郑慎捷",
+          "coursePrice": "￥699",
+          "courseOutline": [
+            {
+              "chapterName": "第一讲",
+              "chapterContent": "原电池原理及其应用",
+              "chapterTime": "10月26日 周六 18:30 - 20:45",
+              "isBegin": "有回放"
+            },
+            {
+              "chapterName": "第二讲",
+              "chapterContent": "化学反应速率与平衡（一）",
+              "chapterTime": "11月09日 周六 18:30 - 20:45",
+              "isBegin": "有回放"
+            },
+            {
+              "chapterName": "第三讲",
+              "chapterContent": "电解质溶液中的离子平衡（三）",
+              "chapterTime": "12月14日 周六 18:30 - 20:45",
+              "isBegin": "未开始"
+            },
+            {
+              "chapterName": "第四讲",
+              "chapterContent": "有机化合物的结构与性质",
+              "chapterTime": "12月28日 周六 18:30 - 20:45",
+              "isBegin": "未开始"
+            }
+          ],
+          "isordered": [
+            "有回放",
+            "未开始"
+          ]
+        },
+        {
+          "courseName": "【秋季目标清北班】高三化学1.5轮复习直播班（全国）",
+          "courseTime": "9月8日-12月29日每周日7:45-10:00",
+          "teachAvatar": "https://hwt.xesimg.com/teacher/2018/03/17/15212657756087.png",
+          "teachName": "郑慎捷",
+          "coursePrice": "￥699",
+          "courseOutline": [
+            {
+              "chapterName": "第一讲",
+              "chapterContent": "化学反应与热能",
+              "chapterTime": "10月20日 周日 07:45 - 10:00",
+              "isBegin": "有回放"
+            },
+            {
+              "chapterName": "第二讲",
+              "chapterContent": "电解质溶液中的离子平衡（一）",
+              "chapterTime": "12月01日 周日 07:45 - 10:00",
+              "isBegin": "有回放"
+            },
+            {
+              "chapterName": "第三讲",
+              "chapterContent": "电解质溶液中的离子平衡（一）",
+              "chapterTime": "12月08日 周日 07:45 - 10:00",
+              "isBegin": "未开始"
+            },
+            {
+              "chapterName": "第四讲",
+              "chapterContent": "有机化合物的结构与性质",
+              "chapterTime": "12月29日 周日 07:45 - 10:00",
+              "isBegin": "未开始"
+            }
+          ],
+          "isordered": [
+            "有回放",
+            "未开始"
+          ]
+        }
+      ]
+    }
+  ]
+}
+

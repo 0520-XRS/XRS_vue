@@ -54,7 +54,7 @@ npm run build
 ```
 serve dist  ==>默认是5000端口
 ```
-### 运行项目
+### 运行项目 
 ```
 npm run serve
 或
